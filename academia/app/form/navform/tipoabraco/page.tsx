@@ -26,6 +26,7 @@ export default function TipoABraco() {
     { exercicio: "VOADOR", series: "", reps: "", carga: "", checked: false },
     { exercicio: "TRÍCEPS COICE", series: "", reps: "", carga: "", checked: false },
     { exercicio: "ROSCA MÁQUINA", series: "", reps: "", carga: "", checked: false },
+    { exercicio: "ROSCA MÁQUINA", series: "", reps: "", carga: "", checked: false },
   ]);
 
   const [novo, setNovo] = useState<ExercItem>({
